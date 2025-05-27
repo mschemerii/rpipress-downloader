@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+<title>Raspberry Pi Official Magazine</title>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="nryVvis4_XP-mexy5qt9d6xzfZxn_tyvi23GpTo5AwerrptloqcySb2pw3lG7H59HsYhOYMz_icS8ZdEZz8zdQ" />
+<meta name="shopify-domain" content="the-magpi-store.myshopify.com">
+<meta name="shopify-storefront-access-token" content="bf21f654fb41fc67a48959c863bc73da">
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://magazine.raspberrypi.com/assets/magpi/meta_image-160b33a2.png" />
+<meta name="twitter:title" content="Raspberry Pi Official Magazine" />
+<meta property="og:description" content="The official Raspberry Pi magazine" />
+<meta property="og:image" content="https://magazine.raspberrypi.com/assets/magpi/meta_image-160b33a2.png" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:site_name" content="Raspberry Pi Official Magazine" />
+<meta property="og:title" content="Raspberry Pi Official Magazine" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://magazine.raspberrypi.com/issues/62/pdf/download" />
+
+  <meta name="twitter:site" content="@rpimagazine" />
+  <meta name="twitter:creator" content="@rpimagazine" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+
+
+<link rel="icon" type="image/png" href="https://magazines-assets.raspberrypi.com/assets/magpi/favicon-823cc1e1.png" />
+
+<link rel="stylesheet" href="https://magazines-assets.raspberrypi.com/assets/magpi-c678ca72.css" data-turbo-track="reload" />
+<link rel="stylesheet" href="https://magazines-assets.raspberrypi.com/assets/application-763739f5.css" data-turbo-track="reload" />
+
+
+
+<script src="https://www.googletagmanager.com/gtag/js?id=G-HHDJLGLSZ4" async="async"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HHDJLGLSZ4', {anonymize_ip: true});
+</script>
+
+
+<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async="async"></script>
+<script src="https://sdks.shopifycdn.com/buy-button/latest/buybutton.min.js"></script>
+
+<script src="https://magazines-assets.raspberrypi.com/assets/application-1d7e2e79.js" data-turbo-track="reload"></script>
+
+  <link rel="alternate" type="application/rss+xml" title="Raspberry Pi Official Magazine" href="https://magazine.raspberrypi.com/feed" />
+
+
+  </head>
+
+  <body>
+      <header class="z-20 relative transform-gpu bg-white">
+  <div class="c-container__container o-container">
+    <a class="c-home-link" href="/">
+      <img alt="Raspberry Pi Official Magazine" class="c-home-link__logo" src="https://magazines-assets.raspberrypi.com/assets/magpi/header/logo-6b08d036.svg" />
+</a>
+    <div class="c-header-social">
+      <ul class="c-social-list">
+  <li class="c-social-list__item">
+    <a class="c-social-list__link" href="#newsletter_form_email">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#bc1e44" width="30px" height="30px">
+  <path class="svg-path" d="M1.5 8.67v8.58a3 3 0 0 0 3 3h15a3 3 0 0 0 3-3V8.67l-8.928 5.493a3 3 0 0 1-3.144 0L1.5 8.67Z" />
+  <path class="svg-path" d="M22.5 6.908V6.75a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3v.158l9.714 5.978a1.5 1.5 0 0 0 1.572 0L22.5 6.908Z" />
+</svg>
+
+      <span class="u-visually-hidden">Subscribe to Raspberry Pi Press newsletter</span>
+</a>  </li>
+
+    <li class="c-social-list__item">
+      <a class="c-social-list__link" href="https://www.facebook.com/rpimag">
+        <svg
+  height="30px"
+  version="1.1"
+  viewbox="0 0 60.734 60.733"
+  width="30px"
+  x="0px"
+  xml:space="preserve"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+  y="0px"
+>
+  <path
+    class="svg-path"
+    d="
+      M57.378,0.001H3.352C1.502,0.001,0,1.5,0,3.353v54.026c0,1.853,1.502,3.354,3.352,3.354h29.086V37.214h-7.914v-9.167h7.914
+      v-6.76c0-7.843,4.789-12.116,11.787-12.116c3.355,0,6.232,0.251,7.071,0.36v8.198l-4.854,0.002c-3.805,0-4.539,1.809-4.539,4.462
+      v5.851h9.078l-1.187,9.166h-7.892v23.52h15.475c1.852,0,3.355-1.503,3.355-3.351V3.351C60.731,1.5,59.23,0.001,57.378,0.001z
+    "
+    fill="#bc1e44"
+  />
+</svg>
+
+        <span class="u-visually-hidden">Like Raspberry Pi Official Magazine on Facebook</span>
+</a>    </li>
+
+    <li class="c-social-list__item">
+      <a class="c-social-list__link" href="https://x.com/rpimagazine">
+        <svg width="30px" height="30px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1227 1227">
+  <path class="svg-path" d="m714.16 519.28 446.73-519.28h-105.86l-387.89 450.89-309.81-450.89h-357.33l468.49 681.82-468.49 544.55h105.87l409.62-476.15 327.18 476.15h357.33l-485.86-707.09zm-145 168.55-47.46-67.9-377.69-540.24h162.6l304.8 435.99 47.47 67.9 396.2 566.72h-162.6l-323.32-462.45z" fill="#bc1e44" />
+</svg>
+
+        <span class="u-visually-hidden">Follow Raspberry Pi Official Magazine on X</span>
+</a>    </li>
+
+    <li class="c-social-list__item">
+      <a class="c-social-list__link" href="https://mastodon.social/@rpimag">
+        <svg width="30px" height="30px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="#bc1e44">
+  <path class="svg-path" d="M11.19 12.195c2.016-.24 3.77-1.475 3.99-2.603.348-1.778.32-4.339.32-4.339 0-3.47-2.286-4.488-2.286-4.488C12.062.238 10.083.017 8.027 0h-.05C5.92.017 3.942.238 2.79.765c0 0-2.285 1.017-2.285 4.488l-.002.662c-.004.64-.007 1.35.011 2.091.083 3.394.626 6.74 3.78 7.57 1.454.383 2.703.463 3.709.408 1.823-.1 2.847-.647 2.847-.647l-.06-1.317s-1.303.41-2.767.36c-1.45-.05-2.98-.156-3.215-1.928a3.614 3.614 0 0 1-.033-.496s1.424.346 3.228.428c1.103.05 2.137-.064 3.188-.189zm1.613-2.47H11.13v-4.08c0-.859-.364-1.295-1.091-1.295-.804 0-1.207.517-1.207 1.541v2.233H7.168V5.89c0-1.024-.403-1.541-1.207-1.541-.727 0-1.091.436-1.091 1.296v4.079H3.197V5.522c0-.859.22-1.541.66-2.046.456-.505 1.052-.764 1.793-.764.856 0 1.504.328 1.933.983L8 4.39l.417-.695c.429-.655 1.077-.983 1.934-.983.74 0 1.336.259 1.791.764.442.505.661 1.187.661 2.046v4.203z"/>
+</svg>
+
+        <span class="u-visually-hidden">Follow Raspberry Pi Official Magazine on Mastodon</span>
+</a>    </li>
+</ul>
+
+    </div>
+  </div>
+</header>
+
+<div class="sticky -top-[.5px] z-10">
+  <input type="checkbox" class="hidden peer" id="nav-state">
+  <div class="absolute lg:relative bottom-0 lg:bottom-auto w-full bg-black peer-checked:translate-y-full motion-safe:duration-150 motion-safe:ease-in motion-safe:peer-checked:duration-300 motion-safe:peer-checked:ease-out motion-safe:transition-transform lg:peer-checked:transform-none">
+    <nav>
+      <div class="o-container lg:flex justify-between pb-2 lg:pb-0">
+
+        <ul class="lg:space-x-10 lg:flex">
+          <li class="block w-full lg:w-auto">
+            <a class="text-white font-bold text-[16px] block no-underline py-4 hover:underline hover:decoration-[#75A941] hover:decoration-[5px] hover:underline-offset-8" href="/articles">Articles</a>
+          </li>
+          <li class="block w-full lg:w-auto">
+            <a class="text-white font-bold text-[16px] block no-underline py-4 hover:underline hover:decoration-[#75A941] hover:decoration-[5px] hover:underline-offset-8" href="/articles/category/tutorials">Tutorials</a>
+          </li>
+          <li class="block w-full lg:w-auto">
+            <a class="text-white font-bold text-[16px] block no-underline py-4 hover:underline hover:decoration-[#75A941] hover:decoration-[5px] hover:underline-offset-8" href="/articles/category/reviews">Reviews</a>
+          </li>
+          <li class="block w-full lg:w-auto">
+            <a class="text-white font-bold text-[16px] block no-underline py-4 hover:underline hover:decoration-[#75A941] hover:decoration-[5px] hover:underline-offset-8" href="/issues">Issues</a>
+          </li>
+          <li class="block w-full lg:w-auto">
+            <a class="text-white font-bold text-[16px] block no-underline py-4 hover:underline hover:decoration-[#75A941] hover:decoration-[5px] hover:underline-offset-8" href="/books">Books</a>
+          </li>
+          <li class="block w-full lg:w-auto">
+            <a class="text-white font-bold text-[16px] block no-underline py-4 hover:underline hover:decoration-[#75A941] hover:decoration-[5px] hover:underline-offset-8" href="/subscribe/new">Subscribe</a>
+          </li>
+          <li class="block w-full lg:w-auto">
+            <a class="text-white font-bold text-[16px] block no-underline py-4 hover:underline hover:decoration-[#75A941] hover:decoration-[5px] hover:underline-offset-8" href="/advertise">Advertise</a>
+          </li>
+        </ul>
+
+        <ul class="flex lg:space-x-10 border-0 border-solid border-neutral-600 border-t lg:border-0">
+          <li class="block w-full lg:w-auto flex items-center">
+              <a class="text-white font-bold text-[16px] block w-full no-underline py-4 hover:underline hover:decoration-[#75A941] hover:decoration-[5px] hover:underline-offset-8" href="/sign-in">Sign in</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <div class="bg-black relative lg:hidden">
+    <label class="text-white text-[16px] font-bold leading-normal cursor-pointer m-0 block px-[5%] lg:px-28 py-6" for="nav-state">
+      Raspberry Pi Official Magazine
+    </label>
+  </div>
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 absolute right-10 inset-y-0 my-auto peer-checked:rotate-180 pointer-events-none lg:hidden text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+  </svg>
+</div>
+
+      <main>
+        
+        <iframe src="/downloads/eyJfcmFpbHMiOnsiZGF0YSI6NjU5LCJwdXIiOiJibG9iX2lkIn19--90d6cf5c27cfa8d89b65129dc145af54d4507da8/MagPi62.pdf" class="u-hidden"></iframe>
+<script>
+//<![CDATA[
+window.gtag('event', 'download', {"file_name":"MagPi62.pdf","file_extension":"pdf","attachment_name":"full_pdf","attachment_record_type":"Issue"});
+//]]>
+</script>
+
+
+<div class="c-slice u-bgcolor-white">
+  <div class="o-container">
+    <div class="o-grid o-grid--center">
+      <div class="o-grid__col u-8/12@md">
+        <h1 class="c-type-display-large leading-none mb-10">
+          Thank you!
+        </h1>
+
+        <p class="c-type-base">
+          Your download of <strong>Raspberry Pi Official Magazine issue 62</strong> should begin automatically.
+        </p>
+
+        <p class="c-type-base">
+          If your download doesn't start,
+          <a class="c-link" href="/downloads/eyJfcmFpbHMiOnsiZGF0YSI6NjU5LCJwdXIiOiJibG9iX2lkIn19--90d6cf5c27cfa8d89b65129dc145af54d4507da8/MagPi62.pdf">click here to get your free PDF</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+      </main>
+      <section class="c-slice c-slice--red">
+  <div class="o-container">
+    <h1 class="c-type-display-large u-text-center">
+      Subscribe to the newsletter
+    </h1>
+    <div class="o-grid o-grid--center">
+      <div class="o-grid__col u-8/12@md">
+        <p class="u-text-center c-type-base">Get every issue delivered directly to your inbox and keep up to date with the latest news, offers, events, and more.</p>
+      </div>
+    </div>
+
+    <form
+  action="https://magpi.us8.list-manage.com/subscribe/post?u=e31349e35c9c4dfb8bdf10e69&amp;id=e2ce89f288"
+  class="c-newsletter-form c-form"
+  method="post"
+  novalidate
+  target="_blank"
+>
+  <input name="b_e31349e35c9c4dfb8bdf10e69_748d641b78" type="hidden" value="">
+<input name="group[82803][262144]"  type="hidden" value="1">
+<input name="group[82803][524288]"  type="hidden" value="1">
+<input name="group[82803][1048576]" type="hidden" value="1">
+<input name="group[82803][2097152]" type="hidden" value="1">
+
+
+  <label
+    class="c-newsletter-form__label c-label"
+    for="newsletter_form_email"
+  >
+    Email address:
+  </label>
+
+  <input
+    class="c-newsletter-form__input c-input"
+    id="newsletter_form_email"
+    name="EMAIL"
+    placeholder="you@example.com"
+    type="email"
+    value=""
+  >
+  <button
+    class="c-newsletter-form__button c-button c-button--secondary leading-none h-[40px]"
+    name="subscribe"
+    type="submit"
+  >
+    Sign up
+  </button>
+</form>
+
+  </div>
+</section>
+
+
+<footer class="c-slice c-light-on-dark u-bgcolor-ui-black">
+  <div class="o-container">
+    <div class="flex flex-col md:flex-row md:justify-between">
+      <ul id="footer-links" class="list-none columns-2 gap-[10px]">
+        <li>
+          <a class="text-white no-underline hover:underline" href="/">Home</a>
+        </li>
+        <li>
+          <a class="text-white no-underline hover:underline" href="/about">About</a>
+        </li>
+        <li>
+          <a class="text-white no-underline hover:underline" href="/articles">Articles</a>
+        </li>
+        <li>
+          <a class="text-white no-underline hover:underline" href="/articles/category/tutorials">Tutorials</a>
+        </li>
+        <li>
+          <a class="text-white no-underline hover:underline" href="/articles/category/reviews">Reviews</a>
+        </li>
+        <li>
+          <a class="text-white no-underline hover:underline" href="/issues">Issues</a>
+        </li>
+        <li>
+          <a class="text-white no-underline hover:underline" href="/books">Books</a>
+        </li>
+        <li>
+          <a class="text-white no-underline hover:underline" href="/subscribe/new">Subscribe</a>
+        </li>
+        <li>
+          <a class="text-white no-underline hover:underline" href="/advertise">Advertise</a>
+        </li>
+        <li>
+          <a class="text-white no-underline hover:underline" href="/contact">Contact us</a>
+        </li>
+        <li>
+          <a class="text-white no-underline hover:underline" href="https://www.raspberrypi.com/privacy">Privacy Policy</a>
+        </li>
+          <li>
+            <a class="text-white no-underline hover:underline" href="/write-for-us">Write for us</a>
+          </li>
+      </ul>
+
+      <div class="mt-[20px] md:mt-0">
+        <div class="flex justify-center">
+          <div class="c-issue-actions c-issue-actions--footer">
+              <div data-shopify-product-handle="raspberry-pi-official-magazine-153" class="c-issue-actions__button">
+                <a class="c-button c-button--block" data-fallback="true" href="https://store.rpipress.cc/products/raspberry-pi-official-magazine-153">Buy now</a>
+</div>
+              <div class="c-issue-actions__button">
+                <a class="c-button c-button--block" href="/subscribe/new">Subscribe</a>
+              </div>
+
+              <div class="c-issue-actions__button">
+                <a href="https://itunes.apple.com/us/app/the-magpi-magazine/id972033560?ls=1&amp;mt=8">
+                  <img class="c-issue-actions__badge" alt="Download on the App Store" src="https://magazines-assets.raspberrypi.com/assets/download-badges/apple-app-store-0a9285e2.png" />
+</a>              </div>
+
+              <div class="c-issue-actions__button">
+                <a href="https://play.google.com/store/apps/details?id=com.raspberry.magpi">
+                  <img class="c-issue-actions__badge" alt="Get it on Google Play" src="https://magazines-assets.raspberrypi.com/assets/download-badges/google-play-store-57a690fa.png" />
+</a>              </div>
+          </div>
+        </div>
+
+        <ul class="flex justify-center list-none space-x-[10px] mt-[10px]">
+          <li>
+            <a class="c-social-list__link" href="#newsletter_form_email">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#ffffff" width="30px" height="30px">
+  <path class="svg-path" d="M1.5 8.67v8.58a3 3 0 0 0 3 3h15a3 3 0 0 0 3-3V8.67l-8.928 5.493a3 3 0 0 1-3.144 0L1.5 8.67Z" />
+  <path class="svg-path" d="M22.5 6.908V6.75a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3v.158l9.714 5.978a1.5 1.5 0 0 0 1.572 0L22.5 6.908Z" />
+</svg>
+
+              <span class="u-visually-hidden">Subscribe to Raspberry Pi Press newsletter</span>
+</a>          </li>
+
+            <li>
+              <a class="c-social-list__link" href="https://www.facebook.com/rpimag">
+                <svg
+  height="30px"
+  version="1.1"
+  viewbox="0 0 60.734 60.733"
+  width="30px"
+  x="0px"
+  xml:space="preserve"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+  y="0px"
+>
+  <path
+    class="svg-path"
+    d="
+      M57.378,0.001H3.352C1.502,0.001,0,1.5,0,3.353v54.026c0,1.853,1.502,3.354,3.352,3.354h29.086V37.214h-7.914v-9.167h7.914
+      v-6.76c0-7.843,4.789-12.116,11.787-12.116c3.355,0,6.232,0.251,7.071,0.36v8.198l-4.854,0.002c-3.805,0-4.539,1.809-4.539,4.462
+      v5.851h9.078l-1.187,9.166h-7.892v23.52h15.475c1.852,0,3.355-1.503,3.355-3.351V3.351C60.731,1.5,59.23,0.001,57.378,0.001z
+    "
+    fill="#ffffff"
+  />
+</svg>
+
+                <span class="u-visually-hidden">Like Raspberry Pi Official Magazine on Facebook</span>
+</a>            </li>
+
+            <li>
+              <a class="c-social-list__link" href="https://x.com/rpimagazine">
+                <svg width="30px" height="30px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1227 1227">
+  <path class="svg-path" d="m714.16 519.28 446.73-519.28h-105.86l-387.89 450.89-309.81-450.89h-357.33l468.49 681.82-468.49 544.55h105.87l409.62-476.15 327.18 476.15h357.33l-485.86-707.09zm-145 168.55-47.46-67.9-377.69-540.24h162.6l304.8 435.99 47.47 67.9 396.2 566.72h-162.6l-323.32-462.45z" fill="#ffffff" />
+</svg>
+
+                <span class="u-visually-hidden">Follow Raspberry Pi Official Magazine on X</span>
+</a>            </li>
+
+            <li>
+              <a class="c-social-list__link" href="https://mastodon.social/@rpimag">
+                <svg width="30px" height="30px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="#ffffff">
+  <path class="svg-path" d="M11.19 12.195c2.016-.24 3.77-1.475 3.99-2.603.348-1.778.32-4.339.32-4.339 0-3.47-2.286-4.488-2.286-4.488C12.062.238 10.083.017 8.027 0h-.05C5.92.017 3.942.238 2.79.765c0 0-2.285 1.017-2.285 4.488l-.002.662c-.004.64-.007 1.35.011 2.091.083 3.394.626 6.74 3.78 7.57 1.454.383 2.703.463 3.709.408 1.823-.1 2.847-.647 2.847-.647l-.06-1.317s-1.303.41-2.767.36c-1.45-.05-2.98-.156-3.215-1.928a3.614 3.614 0 0 1-.033-.496s1.424.346 3.228.428c1.103.05 2.137-.064 3.188-.189zm1.613-2.47H11.13v-4.08c0-.859-.364-1.295-1.091-1.295-.804 0-1.207.517-1.207 1.541v2.233H7.168V5.89c0-1.024-.403-1.541-1.207-1.541-.727 0-1.091.436-1.091 1.296v4.079H3.197V5.522c0-.859.22-1.541.66-2.046.456-.505 1.052-.764 1.793-.764.856 0 1.504.328 1.933.983L8 4.39l.417-.695c.429-.655 1.077-.983 1.934-.983.74 0 1.336.259 1.791.764.442.505.661 1.187.661 2.046v4.203z"/>
+</svg>
+
+                <span class="u-visually-hidden">Follow Raspberry Pi Official Magazine on Mastodon</span>
+</a>            </li>
+        </ul>
+      </div>
+    </div>
+
+    <p class="c-type-caption mt-[20px] mb-0 text-neutral-300 text-center md:text-left">
+      ©2025 <a class="text-neutral-300 no-underline hover:text-white hover:underline" href="https://www.raspberrypi.com">Raspberry Pi Ltd</a>
+    </p>
+  </div>
+</footer>
+
+
+
+  </body>
+</html>
